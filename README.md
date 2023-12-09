@@ -1,2 +1,2 @@
-# leetcode
-Resolutions for LeetCode problems
+# LeetCode
+Resolutions for LeetCode problems, mainly in Go for now.
