@@ -13,5 +13,5 @@ func searchInsert(nums []int, target int) int {
 					}
 			}
 	}
-	return indexPoint;
+	return indexPoint
 }
